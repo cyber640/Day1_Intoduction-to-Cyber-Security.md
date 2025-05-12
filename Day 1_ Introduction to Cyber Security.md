@@ -6,7 +6,7 @@ Hacking: refers to find vurnubility in a system
           -Black Hat hacker; are the bad hackers who hack for money or to harm others
           -White Hat Hacker; are the good people and permissioned hackers.
           -Grey Hat Hacker; they are in the middle of above
-    ## Based on skill
+    # Based on skill
              -Noobs; zero knowledge with zero experiance
              -Skids; has some knowledge, they know something
              -Hacker; has the knowledge but less experience
@@ -16,13 +16,13 @@ Hacking: refers to find vurnubility in a system
       -Security awarness
       - To Prevent our selves from unauotherized access
    # Elements of informarion Security
-      -###Confidentiality
-      -###Integrity
-      -###Availability
+      -Confidentiality
+      -Integrity
+      -Availability
     # Skills to be a hacker
-      ###-Coding
-      ###-Networking
-      ###-System adminstration
+     -Coding
+      Networking
+      -System adminstration
       
 
 
