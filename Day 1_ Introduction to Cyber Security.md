@@ -1,7 +1,7 @@
 Day 1_ Introduction to Cyber Security
 # Cyber Security: is securing a system in a computer or mobile and any other devices.
    # Cyber Crime
-Hacking: refers to find vurnubility in a system
+Hacking: refers to find vulnerability in a system
     
      
    # Based on the Ethics:
@@ -14,17 +14,17 @@ Hacking: refers to find vurnubility in a system
              -Skids; has some knowledge, they know something
              -Hacker; has the knowledge but less experience
              -Pro/Ellite; has both knowledge and experience
- # Why learning cyber Security
+ # Why learning Cyber Security
       -Data protection
       -Security awarness
       - To Prevent our selves from unauotherized access
-   # Elements of informarion Security
+   # Elements of Informarion Security
       -Confidentiality
       -Integrity
       -Availability
   # Skills to be a hacker
-     -Coding
-     -Networking
+      -Coding
+      -Networking
       -System adminstration
       
 
